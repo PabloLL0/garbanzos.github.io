@@ -82,7 +82,7 @@ cromosomas (Figura 1).
 
 <div class="figure" style="text-align: center">
 
-<img src="Index_files/figure-gfm/grafico-cromosoma-SNPs-1.png" alt="Figura 1. Número de SNPs por cromosomas" width="60%" />
+<img src="index_files/figure-gfm/grafico-cromosoma-SNPs-1.png" alt="Figura 1. Número de SNPs por cromosomas" width="60%" />
 <p class="caption">
 
 Figura 1. Número de SNPs por cromosomas
@@ -146,7 +146,7 @@ El siguiente modelo muestra la relación entre el número total y los SNPs
 no filtrados (Figura 2).
 
 <figure>
-<img src="Index_files/figure-gfm/grafico-relacion-1.png"
+<img src="index_files/figure-gfm/grafico-relacion-1.png"
 alt="Fig 2. Relación entre el número total de SNPs y el porcentaje de SNPs que no pasan el filtro de calidad" />
 <figcaption aria-hidden="true">Fig 2. Relación entre el número total de
 SNPs y el porcentaje de SNPs que no pasan el filtro de
